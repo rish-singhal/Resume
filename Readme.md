@@ -1,6 +1,6 @@
 # Resume
 
-Last Updated on: 30th December 2020
+Last Updated on: 2nd February 2020
 
 ## TODO
-- Update Cognitive Science Lab description
+[X] Update Cognitive Science Lab description
